@@ -1,0 +1,1 @@
+{"C:\\Users\\Joseph\\workspace\\exercises\\mjd\\employees\\gulpfile.js":{"sha1":"4bb6fe4b7d2d6bc4e97a51de95295ab98bcf7cb7","tasks":{"default":{"name":"default","dependencies":"lint watch"},"watch":{"name":"watch","dependencies":""},"lint":{"name":"lint","dependencies":""}}}}
